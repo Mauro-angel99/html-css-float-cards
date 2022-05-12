@@ -51,6 +51,14 @@ img {
     margin: 0 10px 20px;
 }
 
+.clearfix {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+
+
 h3,
 span {
     color: white;
